@@ -1,3 +1,3 @@
 NAME=azure-openai-proxy
-VERSION=v0.0.1
+VERSION=v1.2.0
 DESCRIPTION="azure-openai-proxy Service"
